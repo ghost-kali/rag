@@ -63,7 +63,7 @@ def get_quiz():
         if not vectordb:
             return jsonify({"error": "Vector database initialization failed"}), 500
 
-        search_results = vectordb.similarity_search("What is the meaning of life?", k=3)
+        search_results = vectordb.similarity_search("questions of the entire pdf?", k=3)
         pdf_extract = "\n".join([result.page_content for result in search_results])
         
         try:

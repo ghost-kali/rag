@@ -1,0 +1,184 @@
+{
+    "Engineering": {
+      "Semester 1": {
+        "Engineering Mathematics - I": {
+          "UNIT-I: MATRICES": [
+            "Rank of a Matrix, Systems of Linear Equations, Characteristic equation, Cayley Hamilton Theorem, Eigen values and Eigen vectors of a real Matrix, Diagonalization of Matrices."
+          ],
+          "UNIT-II: DIFFERENTIAL EQUATIONS (HIGHER ORDER)": [
+            "Linear Differential equations of higher order with constant coefficients, Euler’s linear equation of higher order with variable coefficients, Method of Variation of parameters."
+          ],
+          "UNIT-III: FUNCTIONS OF SEVERAL VARIABLES": [
+            "Partial derivatives, Total derivatives, Maxima of two variables and Minima of two variables, Lagrange’s Method of multipliers."
+          ],
+          "UNIT-IV: MULTIPLE INTEGRALS": [
+            "Multiple Integrals, Change of order of integration (Cartesian form). Applications: Areas as a double integral (Cartesian form), Volume as a triple integral (Cartesian form)."
+          ],
+          "UNIT-V: VECTOR CALCULUS": [
+            "Gradient, Divergence and Curl, Directional derivatives, Irrotational and Solenoidal vector fields, Properties (Statement only), Gauss Divergence Theorem and Stokes Theorem applications (without proofs)."
+          ]
+        },
+        "Physical Science for Engineers": {
+          "UNIT-I: Magnetic, Dielectric and Superconducting Materials": [
+            "Introduction to magnetic materials, Ferromagnetism- Domain theory-Types of energy-Hysteresis-Hard and Soft magnetic materials-ferrites-Dielectric materials-Types of polarization - Langevin-Debye equation-Frequency effects on polarizationDielectric breakdown- Ferroelectric materials-Superconducting materials and their properties."
+          ],
+          "UNIT-II: Quantum Mechanics": [
+            "Matter Waves - de Broglie Wavelength - Uncertainty Principle - Physical Significance of wave functions - Schrodinger wave Equation - Time Dependent - Time Independent - Application to Particle in a One Dimensional Box - Tunnel Diode."
+          ],
+          "UNIT-III: Laser and Fiber Optics": [
+            "Lasers - Principles of Laser - Spontaneous and Stimulated Emissions - Einstein's Coefficients - Population Inversion and Laser Action - components of laser - Types of Lasers - NdYAG, CO2 laser, GaAs Laser Fiber Optics - Principle and Propagation of light in optical fiber - Numerical aperture and acceptance angle - Types of optical fibers (material, refractive index, mode)."
+          ],
+          "UNIT-IV: Water And Its Treatment": [
+            "Water - Sources and impurities, Water quality parameters: Definition and significance of-color, odour, turbidity, pH, hardness, alkalinity, TDS, COD and BOD. Desalination of brackish water: Reverse osmosis-disadvantages of using hard water in boiler - Treatment of boiler feed water: Internal treatment (phosphate, colloidal, sodium aluminate and Calgon conditioning) and External treatment-Ion exchange demineralization and zeolite process."
+          ],
+          "UNIT-V: Electrochemical Cells and Storage Devices": [
+            "Galvanic cells, single electrode potential, standard electrode potential, electrochemical series. EMF of a cell and its measurement. Nernst equation. Electrolyte concentration cell. Reference electrodes-hydrogen, calomel and Ag/AgCl. Batteries and fuel cells: Types of batteries- alkaline battery-lead storage battery- nickel-cadmium battery- fuel cell H2 -O2 fuel cell-applications."
+          ],
+          "UNIT-VI: Corrosion": [
+            "Corrosion - Introduction - factors - types - chemical, electrochemical corrosion (galvanic, differential aeration), corrosion control - material selection and design aspects - electrochemical protection - sacrificial anode method and impressed current cathodic method. Uses of inhibitors, metallic coating - anodic coating, cathodic coating. Metal cladding, Electroplating of Copper and electroless plating of nickel."
+          ]
+        },
+        "Basic Civil and Mechanical Engineering": {
+          "UNIT-I: Buildings and Building Materials": [
+            "Buildings - Definition - Classification according to NBC - Plinth area, Floor area, carpet area, floor space index - Development of Smart cities - Green building, Benefits from green building. Building Materials - stone, brick, cement, cement mortar, concrete, steel, Timber - their properties and uses."
+          ],
+          "UNIT-II: Building Components and Surveying": [
+            "Various Buildings Components and their functions. Foundation: function and types - Brick masonry, Stone Masonry and its types - Floors, Roofs and its types. Surveying: Objects - Classification - Principles - Measurements of Distances and areas - Leveling."
+          ],
+          "UNIT-III: Basic Infrastructure": [
+            "Roads and Bridges - types, components, advantage and disadvantages. Railways - Permanent way and its elements. Sources of Water - Quality of Water - Domestic sewage Treatment - Rain Water harvesting - Dams - site selection for dam construction, types of dams."
+          ],
+          "UNIT-IV: Internal and External Combustion Systems": [
+            "IC engines - Classification - Working principles - Diesel and Petrol Engines: Two stroke and four stroke engines - merits and demerits. Steam generators (Boilers) - Classification - Constructional features (of only low-pressure boilers) - Boiler mountings and accessories - Merits and demerits - Applications."
+          ],
+          "UNIT-V: Power Generation Systems, Refrigeration and Air Conditioning Systems": [
+            "Power plants: Thermal - Nuclear, Hydraulic, Solar, Wind, Geothermal, Wave, Tidal and Ocean Thermal Energy Conversion systems - Functions, Applications - Schemes and layouts (Description only). Refrigeration and Air Conditioning System: Terminology of Refrigeration and Air Conditioning. Principle of vapour compression and absorption system - Layout of typical domestic refrigerator - Window and Split type room Air conditioner."
+          ],
+          "UNIT-VI: Manufacturing Process": [
+            "Lathe - types, Specifications, Operations of a centre lathe. Casting - Pattern making, Allowances, Green sand and dry sand moulding, casting defects. Welding - Arc and Gas welding process, brazing and soldering (process description only)."
+          ]
+        },
+        "Electrical Technology": {
+          "UNIT-I: Basics of Electrical Energy": [
+            "Introduction, conventional and non-conventional sources of Electrical Energy, Domestic wiring, Factors affecting the choice of wiring system, Types of Wires and cables, Types of Wiring, Typical House Wiring Circuits, Basics of Utility Supply, Knowledge about distribution box, MCB, plug types, fuses, insulators, live wire, neutral wire, Earthing and its types, construction and working of incandescent lamp, CFL and LED lamps."
+          ],
+          "UNIT-II: Transformers": [
+            "Single phase transformer: construction, principle of operation, EMF equation, Types, Phasor diagram, Equivalent circuit, Voltage Regulation, losses and efficiency. Load test. Auto transformers: construction, copper saving. Introduction to three phase transformer-Power Measurement using two Wattmeter methods."
+          ],
+          "UNIT-III: DC Machines": [
+            "DC Generator: Construction, Principles of operation, Types, EMF equation, OCC and Load characteristics of series and shunt generator. DC motor: Principle of operation, Types, Torque Equation, electrical and mechanical characteristics of series and shunt motor, Speed control methods and applications, Need for starters and its types."
+          ],
+          "UNIT-IV: AC Machines": [
+            "Three phase Induction Motor: Construction, principle of operation, Types, torque equation, Slip-torque characteristics. Single Phase Induction Motor: construction, principle of operation and starting methods. Alternator: Construction, Principles of operation, Types, EMF equation, Voltage regulation. Synchronous motor: Construction, Methods of starting, V and inverted V curves."
+          ],
+          "UNIT-V: Special Machines": [
+            "Servo motor: DC and AC servomotors. Stepper motors: variable reluctance and permanent magnet stepper motors. Reluctance motor, Hysteresis motor, Universal motor, Repulsion motor and BLDC motor - Applications."
+          ]
+        },
+        "Circuit Network": {
+          "UNIT-I: Circuit Elements and Kirchhoff’s Laws": [
+            "Basic definitions: Voltage, Current, Power and Energy -Resistance Parameter, Inductance Parameter, Capacitance Parameter - Independent Energy Sources - Kirchhoff’s Voltage Law, Kirchhoff’s Current Law - Voltage and current Division rule - Power in Series and parallel Circuits - Star Delta transformation - Source Transformation Technique."
+          ],
+          "UNIT-II: Circuit Theorems for Analysing AC & DC Circuits (Independent sources only)": [
+            "Introduction- Nodal Analysis, Mesh Analysis - Superposition Theorem - Thevenin’s Theorem - Norton’s Theorem- Reciprocity Theorem - Compensation Theorem - Maximum Power Transfer Theorem - Duals and Duality - Tellegen’s Theorem - Millman’s Theorem - Application of theorems to DC and AC circuits."
+          ],
+          "UNIT-III: Alternating Currents & Voltages and Steady-State Response": [
+            "The Sine Wave, Angular Relation, The sine wave equation, Voltage and Current Values of a Sine Wave, Phase Relation - Pure Resistor, Pure Inductor, Pure Capacitor; Impedance Diagram, Phasor Diagram, Computation of active, reactive and apparent powers- power triangle, power factor. Steady State Response: DC Response of an R-L Circuit, DC Response of an R-C Circuit, DC Response of an R-L-C Circuit."
+          ],
+          "UNIT-IV: Two Port Network Functions and Parameters": [
+            "Introduction to two port networks- Driving point impedance and admittance, Transfer impedance and admittance, Voltage and current Transfer ratio, Concept of pole-zeros in network function - Open circuit impedance (Z) parameters - short circuit admittance (Y) parameters - transmission (ABCD) parameters and inverse transmission parameters - Hybrid (h) parameters and inverse hybrid parameters - Conversion between parameters."
+          ],
+          "UNIT-V: Filters and Attenuators": [
+            "Fundamentals of filters, types of filters- low pass, high pass, band pass and band elimination filters, Constant K-filters. Attenuators: Symmetric and asymmetric attenuators- T-attenuators and π attenuators only."
+          ]
+        }
+      },
+      "Semester 2": {
+        "Engineering Mathematics - II": {
+          "UNIT-I: Fourier Series": [
+            "Dirichlet's conditions, General Fourier series, Odd and Even functions, Half-Range sine series and cosine series, Change of intervals, Parseval's Identity."
+          ],
+          "UNIT-II: Fourier Transforms": [
+            "Fourier Transforms and its inverse, Properties of Fourier Transform (without proof), Fourier sine and cosine Transforms and their properties (excluding proof)."
+          ],
+          "UNIT-III: Laplace Transforms": [
+            "Laplace transforms of elementary functions and Periodic functions, Basic properties (excluding proof), Laplace transforms of derivatives and integrals, Initial and final value theorems."
+          ],
+          "UNIT-IV: Inverse Laplace Transforms": [
+            "Definition of inverse Laplace Transforms, Convolution theorem (excluding proof), Solutions of Linear Ordinary Differential Equations of second order with constant coefficients."
+          ],
+          "UNIT-V: Z Transforms": [
+            "Z-transforms, Elementary Properties, Inverse Z-transforms (using partial fraction and Residues), Solution of difference equations using Z - transform."
+          ]
+        },
+        "Engineering Mechanics": {
+          "UNIT-I: BASICS AND STATICS OF PARTICLES": [
+            "Introduction - Units and Dimensions - Vectorial representation of forces and moments, Coplanar Forces - Lami‘s theorem, Parallelogram and triangular Law of forces - Resolution of forces - Equilibrium of a particle - Principle of transmissibility - Equivalent system of force - Free body diagram."
+          ],
+          "UNIT-II: EQUILIBRIUM OF RIGID BODIES": [
+            "Types of supports and their reactions - Requirements of stable equilibrium - Moments and Couples - Moment of a force about a point and about an axis - Vectorial representation of moments and couples - Scalar components of a moment - Varignon‘s theorem - Equilibrium of Rigid bodies in two dimensions, Forces in space - Equilibrium of a particle in space - Equivalent systems of forces - Equilibrium of Rigid bodies in three dimensions (Descriptive only)."
+          ],
+          "UNIT-III: STRUCTURAL ANALYSIS OF TRUSSES AND FRICTION": [
+            "Trusses - Definition of a truss - Simple Trusses - Analysis of Trusses - Method of joints - Method of sections - Friction force - Laws of sliding friction - Equilibrium analysis of simple systems with sliding friction - Wedge friction - Rolling resistance."
+          ],
+          "UNIT-IV: PROPERTIES OF SURFACES AND SOLIDS": [
+            "Determination of centroid of areas, volumes and mass - Pappus and Guldinus theorems - Moment of inertia of plane and areas - Parallel axis theorem and perpendicular axis theorem, radius of gyration of area - Product of inertia - Mass moment of inertia."
+          ],
+          "UNIT-V: DYNAMICS OF PARTICLES": [
+            "Displacements, Velocity and acceleration, their relationship - Relative motion - Curvilinear motion - Newton‘s law - Work Energy Equation of particles - Impulse and Momentum - Impact of elastic bodies."
+          ]
+        },
+        "Programming for Problem Solving": {
+          "UNIT-I: INTRODUCTION": [
+            "Generation and Classification of Computers - Block Diagram of a Computer, Categories of Software, Network Structure - Number System, Binary, Decimal, Conversion, Algorithm, Pseudo code, Flow Chart."
+          ],
+          "UNIT-II: C PROGRAMMING BASICS": [
+            "Introduction to 'C' Programming, Basic structure of a 'C' program, Compilation and linking processes, Constants, Variables, Data Types, Expressions using operators in 'C', Managing Input and Output operations, Decision Making and Branching, Looping statements."
+          ],
+          "UNIT-III: ARRAYS AND FUNCTIONS": [
+            "Arrays, Initialization, Declaration, One dimensional and Two dimensional arrays. String- String operations, String Arrays. Simple programs- sorting- searching, matrix operations- Function, Definition of function, Declaration of function, Pass by value, Pass by reference, Recursion."
+          ],
+          "UNIT-IV: STRUCTURE AND POINTERS": [
+            "Structure Introduction, Structure definition, Structure declaration, Structure within a structure, Self Referential Structure. Pointers - Definition, Initialization, Pointers arithmetic, Pointers and arrays, Pointer to Function, Pointer and Structure, Simple programs."
+          ],
+          "UNIT-V: UNIONS AND FILES": [
+            "Union Introduction - Programs Using Structures and Unions, Introduction to File - File Operations - File Input and Output Functions - Random Access to Files - File System Functions - Command Line Arguments - Storage Classes - Pre-Processor Directives - Dynamic Memory Functions."
+          ]
+        },
+        "Electronic Devices": {
+          "UNIT-I: SEMICONDUCTOR DIODES": [
+            "Diode: PN Junction Diode, Resistance Levels, Diode Equivalent Circuits, Transition and Diffusion Capacitance, Reverse Recovery Time, Zener Diodes, Point-Contact Diode. Diode Applications - Series Diode Configurations - Parallel and Series-Parallel Configurations, Clippers, Clampers - Voltage Multiplier Circuits."
+          ],
+          "UNIT-II: BIPOLAR JUNCTION TRANSISTORS": [
+            "BJT: Construction and operation of NPN and PNP transistors - Current equations, Types of Configurations - CE, CB, CC - Early Effect. Hybrid Equivalent model, Ebers Moll Model."
+          ],
+          "UNIT-III: FIELD EFFECT TRANSISTORS": [
+            "FET: JFETs, Construction and Characteristics, - Pinch off voltage MOSFET- Characteristics- Threshold voltage -Channel length modulation, D-MOSFET, E-MOSFET-Characteristics, Comparison of MOSFET with JFET, NMOS, PMOS, CMOS."
+          ],
+          "UNIT-IV: SPECIAL SEMICONDUCTOR DEVICES": [
+            "Metal-Semiconductor Junction - Schottky barrier diode, Varactor diode, Tunnel diode, Dual-Gate MOSFET, FINFET, MESFET, PINFET, CNTFET, Gallium Arsenide device. Power Devices: Construction, operation and applications of UJT, SCR, DIAC, TRIAC."
+          ],
+          "UNIT-V: APPLICATIONS OF SEMICONDUCTOR DEVICES": [
+            "Rectifiers and Filters: Half wave, Full wave and bridge rectifier, Ripple factor calculation for C, L, LC and CLC filter. Regulators: Voltage regulators, Shunt voltage regulator, Series voltage regulator, short circuit protection circuit, Current limiting circuit, Fold back limiting, switching regulator."
+          ]
+        },
+        "Universal Human Values - II": {
+          "UNIT-I: INTRODUCTION TO VALUE EDUCATION": [
+            "Right Understanding, Relationship and Physical Facility (Holistic Development and the Role of Education) - Understanding Value Education - Self-exploration as the Process for Value Education - Basic Human Aspirations - Happiness and Prosperity - Current Scenario - Method to Fulfil the Basic Human Aspirations."
+          ],
+          "UNIT-II: HARMONY IN THE HUMAN BEING": [
+            "Understanding Human being as the Co-existence of the Self and the Body - Distinguishing between the Needs of the Self and the Body - The Body as an Instrument of the Self - Understanding Harmony in the Self - Harmony of the Self with the Body - Programme to ensure self-regulation and Health."
+          ],
+          "UNIT-III: HARMONY IN THE FAMILY AND SOCIETY": [
+            "Harmony in the Family - Basic Unit of Human Interaction - 'Trust' - Foundational Value in Relationship - 'Respect' - as the Right Evaluation - Other Feelings, Justice in Human-to-Human Relationship - Understanding Harmony in the Society - Vision for the Universal Human Order."
+          ],
+          "UNIT-IV: HARMONY IN THE NATURE / EXISTENCE": [
+            "Understanding Harmony in the Nature - Interconnectedness, self-regulation and Mutual Fulfilment among the Four Orders of Nature - Realizing Existence as Co-existence at All Levels - Holistic Perception of Harmony in Existence."
+          ],
+          "UNIT-V: IMPLICATIONS OF THE HOLISTIC UNDERSTANDING - A LOOK AT PROFESSIONAL ETHICS": [
+            "Natural Acceptance of Human Values - Definitiveness of (Ethical) Human Conduct - Basis for Humanistic Education, Humanistic Constitution and Universal Human Order - Competence in Professional Ethics - Holistic Technologies, Production Systems and Management Models - Typical Case Studies - Strategies for Transition towards Value-based Life and Profession."
+          ]
+        }
+      }
+    }
+  }

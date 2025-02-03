@@ -81,12 +81,11 @@ And you will generate question based on difficulty level 1 to 20
  
 
     query = f"""
-    Generate 5 questions based on the following PDF extract:
+    Generate 10 questions based on the following PDF extract:
     {pdf_extract}
     
-    Ensure each question includes the filename and page number it's based on.
     never mention about the question source or pdf extract in the question.
-    also dont ask questions about the page number,
+    also dont ask questions about the page number,include formulas if present in the file
     be as realistic as possible.
     """
 

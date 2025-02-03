@@ -1,0 +1,219 @@
+{
+    "Biomedical Engineering": {
+      "Semester 1": {
+        "Engineering Mathematics – I": {
+          "UNIT-I: Matrices": [
+            "Rank of a Matrix - Systems of Linear Equations - Characteristic equation - Cayley Hamilton Theorem - Eigen values and Eigen vectors of a real Matrix - Diagonalization of Matrices."
+          ],
+          "UNIT-II: Differential Equations (Higher Order)": [
+            "Linear Differential equations of higher order with constant coefficients - Euler’s linear equation of higher order with variable coefficients - Method of Variation of parameters."
+          ],
+          "UNIT-III: Functions of Several Variables": [
+            "Partial derivatives - Total derivatives - Maxima and Minima of two variables - Lagrange’s Method of multipliers."
+          ],
+          "UNIT-IV: Multiple Integrals": [
+            "Multiple integrals - Change of order of integration (Cartesian form) - Applications: Area as a double integral (Cartesian form) - Volume as a triple integral (Cartesian form)."
+          ],
+          "UNIT-V: Vector Calculus": [
+            "Gradient - Divergence and Curl - Directional derivatives - Irrotational and Solenoidal vector fields - Gauss Divergence Theorem - Stokes Theorem (without proofs)."
+          ]
+        },
+        "Physical Science for Engineers": {
+          "UNIT-I: Magnetic, Dielectric and Superconducting Materials": [
+            "Introduction to magnetic materials - Ferromagnetism - Domain Theory - Types of energy - Hysteresis - Hard and Soft magnetic materials - Ferrites - Dielectric materials - Types of polarization - Langevin-Debye equation - Frequency effects on polarization - Dielectric breakdown - Ferroelectric materials - Superconducting materials and their properties."
+          ],
+          "UNIT-II: Quantum Mechanics": [
+            "Matter waves - de Broglie Wavelength - Uncertainty Principle - Physical significance of wave functions - Schrodinger wave equation (Time Dependent and Time Independent) - Application to Particle in a One-Dimensional Box - Tunnel Diode."
+          ],
+          "UNIT-III: Laser and Fiber Optics": [
+            "Principles of Laser - Spontaneous and Stimulated Emissions - Einstein's Coefficients - Population Inversion and Laser Action - Components of laser - Types of Lasers (Nd:YAG, CO2, GaAs) - Fiber Optics - Principle and Propagation of light in optical fibers - Numerical aperture and acceptance angle - Types of optical fibers (material, refractive index, mode)."
+          ],
+          "UNIT-IV: Water and Its Treatment": [
+            "Sources and impurities of water - Water quality parameters (color, odor, turbidity, pH, hardness, alkalinity, TDS, COD, BOD) - Desalination of brackish water (Reverse osmosis) - Disadvantages of hard water in boilers - Boiler feed water treatment (internal treatment: phosphate, colloidal, sodium aluminate, Calgon conditioning; external treatment: ion exchange demineralization and zeolite process)."
+          ],
+          "UNIT-V: Electrochemical Cells and Storage Devices": [
+            "Galvanic cells - Single and standard electrode potential - Electrochemical series - EMF of a cell and its measurement - Nernst equation - Electrolyte concentration cell - Reference electrodes (hydrogen, calomel, Ag/AgCl) - Batteries (alkaline, lead storage, nickel-cadmium) - Fuel cells (H2-O2 fuel cell) and applications."
+          ],
+          "UNIT-VI: Corrosion": [
+            "Introduction - Factors affecting corrosion - Types of corrosion (chemical, electrochemical: galvanic, differential aeration) - Corrosion control (material selection, design aspects) - Electrochemical protection (sacrificial anode method, impressed current method) - Uses of inhibitors - Metallic coating (anodic, cathodic) - Metal cladding - Electroplating of Copper - Electroless plating of Nickel."
+          ]
+        },
+        "Human Anatomy and Physiology": {
+          "UNIT-I: Basic Elements of Human Body": [
+            "Structure and function of Cell and cellular components - Membrane Potential - Action Potential (Generation and Conduction) - Blood Cells (Composition, Fluid and electrolytic balance) - Blood Groups (ABO and Rh System) - Estimation of RBC and WBC."
+          ],
+          "UNIT-II: Cardiovascular and Nervous System": [
+            "Cardiovascular System - Heart and vascular system - ECG - Blood Pressure - Homeostasis - Cardiac Cycle - Basics of Cardiac Output and Heart Sounds - PCG. Nervous System - Structure and functions of Neurons - Synapse - Reflex action and Receptors - Velocity of Conduction of Nerve Impulses - Nerve conduction Test - Nervous control of Heart."
+          ],
+          "UNIT-III: Urinary and Visual-Auditory System": [
+            "Gastro Urinal system - Structure and function of kidneys and Nephron - Mechanism of Urine formation - Urine Reflex. Optics of Eye - Retina - Photochemistry of Vision - Accommodation - Neurophysiology of Vision - Structure and functions of Internal Ear - Mechanism of Hearing - Auditory pathway - Hearing Tests."
+          ],
+          "UNIT-IV: Musculo Skeletal and Respiratory System": [
+            "Musculo Skeletal System: Muscle Tissue - Structure of Skeletal Muscle - Types of Muscle - Types of Joints - Major Muscles of Limbs and their actions. Respiratory System - Physiological aspects of respiration - Exchange of gases - Regulation of Respiration - Pulmonary function test - Artificial respiration."
+          ],
+          "UNIT-V: Macromolecules and Measurement": [
+            "Carbohydrates (Classification and Metabolism and dysfunction) - Lipids (Classification and Metabolism and dysfunction) - Protein (Classification of Amino acids and architecture of protein molecules). Measurement - Principles of Photometry - Spectrophotometry - Flurometry - Flame Photometry - Densitometry - Calorimetry."
+          ]
+        },
+        "Basic Electrical Circuits": {
+          "UNIT-I: Introduction to Electrical Circuits": [
+            "Basic components of electric circuits - Ohm's Law - Kirchhoff’s Laws - Series and parallel connected independent sources - Resistors in series and parallel - Voltage and current division - Star-Delta conversion - Concepts of AC circuits (RMS value, Average Value, Form Factor, Peak Factor) - Study of RL, RC, RLC series and parallel circuits - Phasor representation (polar and rectangular form) - Concept of impedance, admittance, active, reactive, apparent and complex power, power factor."
+          ],
+          "UNIT-II: Network Theorems": [
+            "Mesh analysis - Nodal analysis - Superposition Theorem - Thevenin’s Theorem - Norton’s Theorem - Reciprocity Theorem - Compensation Theorem - Maximum Power Transfer Theorem - Millman’s Theorem."
+          ],
+          "UNIT-III: Resonance and Coupled Circuits": [
+            "Resonance (Series and Parallel resonance, Variation of Impedance, Current and Voltage with frequency, Bandwidth, Q factor, Selectivity) - Coupled Circuits (Self-inductance, Mutual inductance, Dot rule, Coefficient of coupling, Series and Parallel connection of coupled inductors, Single tuned coupled circuit)."
+          ],
+          "UNIT-IV: Transient Response Analysis": [
+            "Steady state and transient response - Source free, Step, Impulse, Sinusoidal, and exponential response for RL, RC, and RLC circuits."
+          ],
+          "UNIT-V: Electrical Machines and Safety": [
+            "Working principle of DC generator and motor (EMF and Torque equation, Types: Shunt, Series, Compound, Applications) - Transformer (Working principle and EMF equation) - Operating principles of three-phase and single-phase induction motors - Synchronous motor and stepper motor (Operating principles and Applications) - Safety measures in electrical systems - Electrical tools and accessories - Wiring standards."
+          ]
+        },
+        "Basics of Civil and Mechanical Engineering": {
+          "UNIT-I: Buildings and Building Materials": [
+            "Buildings - Definition - Classification according to NBC (plinth area, floor area, carpet area, floor space index) - Development of Smart Cities - Green buildings (Benefits) - Building Materials (stone, brick, cement, cement mortar, concrete, steel, timber: properties and uses) - Moulding and casting defects - Welding (Arc and Gas welding process), brazing, soldering (process description only)."
+          ],
+          "UNIT-II: Building Components and Surveying": [
+            "Various building components and their functions - Foundation (function and types) - Brick masonry and stone masonry (types) - Floors and roofs (types) - Surveying (Objects, Classification, Principles, Measurements of distances and areas, Leveling)."
+          ],
+          "UNIT-III: Basic Infrastructure": [
+            "Roads and Bridges (types, components, advantages and disadvantages) - Railways (Permanent way and its elements) - Sources of water - Quality of water - Domestic sewage treatment - Rainwater harvesting - Dams (site selection, types)."
+          ],
+          "UNIT-IV: Internal and External Combustion Systems": [
+            "IC engines (Classification, Working principles) - Diesel and Petrol Engines (Two-stroke and four-stroke engines, merits and demerits) - Steam generators (Boilers: Classification, Constructional features of low-pressure boilers, Boiler mountings and accessories, Merits and demerits, Applications)."
+          ],
+          "UNIT-V: Power Generation Systems, Refrigeration and Air Conditioning Systems": [
+            "Power plants (Thermal, Nuclear, Hydraulic, Solar, Wind, Geothermal, Wave, Tidal, Ocean Thermal Energy Conversion systems: Functions, Applications, Schemes and layouts) - Refrigeration and Air Conditioning Systems (Terminology, Principle of vapour compression and absorption systems, Layout of domestic refrigerator, Window and Split type room air conditioner)."
+          ],
+          "UNIT-VI: Manufacturing Process": [
+            "Lathe (types, specifications, operations of a center lathe) - Casting (Pattern making, Allowances, Green sand and dry sand casting)."
+          ]
+        },
+        "Communicative English - I": {
+          "UNIT-I: Workstead Communication": [
+            "Communication (Definition, Process, Channels, Barriers, Strategies for Effective Communication) - Verbal and Nonverbal Communication - Listening (Types, Barriers, Enhancing Listening Skills) - Bibliography (Book, Journal, and Internet References)."
+          ],
+          "UNIT-II: Common Errors in Writing and Comprehension Strategies": [
+            "Subject-Verb Agreement - Misplaced, Squinting, and Dangling Modifiers - Fused Sentence - Comma Splice - Sentence Fragment - Reading Comprehension (Technical passage) - Strategies (Skimming, Scanning, Intensive and Extensive Reading, Prediction, Contextual Meaning)."
+          ],
+          "UNIT-III: Phonetics": [
+            "Pronunciation Guidelines (Consonants and Vowels) - Sounds Mispronounced - Silent and Non-silent Letters - Intonation - Spelling Rules - Words often misspelled - Mother Tongue Influence (MTI) - Techniques for Neutralization of MTI."
+          ],
+          "UNIT-IV: Communication Practice-I": [
+            "Listening (Self-introduction videos) - Speaking (Self-introduction, Extempore, Role Play) - Reading (Non-Technical Comprehension Passage) - Writing (Common Errors in Writing)."
+          ],
+          "UNIT-V: Interpersonal Communication-I": [
+            "Listening (Speech Sounds, Interview Videos) - Speaking (Debate, Structured Group Discussion, Conversation) - Reading (Commonly Confused Words) - Writing (Transcription)."
+          ]
+        }
+      },
+      "Semester 2": {
+        "Engineering Mathematics – II": {
+          "UNIT-I: Fourier Series": [
+            "Dirichlet’s conditions - General Fourier series - Odd and Even functions - Half-Range sine series and cosine series - Change of intervals - Parseval’s Identity."
+          ],
+          "UNIT-II: Fourier Transforms": [
+            "Fourier Transforms and its inverse - Properties of Fourier Transform (without proof) - Fourier sine and cosine Transforms and their properties (excluding proof)."
+          ],
+          "UNIT-III: Laplace Transforms": [
+            "Laplace transforms of elementary functions and Periodic functions - Basic properties (excluding proof) - Laplace transforms of derivatives and integrals - Initial and final value theorems."
+          ],
+          "UNIT-IV: Inverse Laplace Transforms": [
+            "Definition of inverse Laplace Transforms - Convolution theorem (excluding proof) - Solutions of Linear Ordinary Differential Equations of second order with constant coefficients."
+          ],
+          "UNIT-V: Z-Transforms": [
+            "Z-transforms - Elementary properties - Inverse Z-transforms (using partial fraction and residues) - Solution of difference equations using Z-transform."
+          ]
+        },
+        "Programming in C": {
+          "UNIT-I: Introduction": [
+            "Generation and Classification of Computers - Block Diagram of a Computer - Categories of Software - Network Structure - Number System (Binary, Decimal, Conversion) - Algorithm - Pseudo code - Flow Chart."
+          ],
+          "UNIT-II: C Programming Basics": [
+            "Introduction to 'C' Programming - Basic structure of a 'C' program - Compilation and linking processes - Constants, Variables - Data Types - Expressions using operators in 'C' - Managing Input and Output operations - Decision Making and Branching - Looping statements."
+          ],
+          "UNIT-III: Arrays and Functions": [
+            "Arrays (Initialization, Declaration, One-dimensional and Two-dimensional arrays) - String (String operations, String Arrays) - Simple programs (sorting, searching, matrix operations) - Function (Definition, Declaration, Pass by value, Pass by reference, Recursion)."
+          ],
+          "UNIT-IV: Structure and Pointers": [
+            "Structure (Introduction, Structure definition, Structure declaration, Structure within a structure, Self-referential structure) - Pointers (Definition, Initialization, Pointer arithmetic, Pointers and arrays, Pointer to Function, Pointer and Structure) - Simple programs."
+          ],
+          "UNIT-V: Unions and Files": [
+            "Union (Introduction, Programs using Structures and Unions) - Introduction to File (File Operations, File Input and Output Functions, Random Access to Files, File System Functions) - Command Line Arguments - Storage Classes - Pre-Processor Directives - Dynamic Memory Functions."
+          ]
+        },
+        "Electron Devices and Circuits": {
+          "UNIT-I: Diodes and their Applications": [
+            "Formation of P-N junction diode - Forward and reverse biased P-N junction - V-I characteristics - Diffusion and transient capacitance - Zener diode and its reverse characteristics - Zener breakdown - Avalanche breakdown - Rectifiers (Half-wave rectifier, Full-wave rectifier with and without filters) - Clippers, Clampers, Voltage Regulator (Zener diode as Voltage regulator)."
+          ],
+          "UNIT-II: Bipolar Junction Transistor and Field Effect Transistor": [
+            "Bipolar Junction Transistor (BJT) - Principle of operation, Current components, CE, CB, and CC Configurations, Input and output characteristics (Cut-off, Active and Saturation region), Transistor as a switch, Transistor as an amplifier. Field Effect Transistor (FET) - Classification (JFET and its characteristics, JFET parameters, MOSFET - Principle of operation, Depletion and enhancement modes)."
+          ],
+          "UNIT-III: Special Semiconductor Devices": [
+            "Unijunction Transistor (UJT), Tunnel diode, Varactor diode, Schottky diode, Gunn diode, Light Emitting Diode (LED), Laser, PIN diode, Photo diode, Liquid Crystal Display (LCD), Silicon Control Rectifier (SCR), DIAC, TRIAC, Applications of SCR, DIAC, TRIAC."
+          ],
+          "UNIT-IV: Amplifiers": [
+            "BJT small signal low frequency model using h parameter - Analysis of CE, CB, and CC amplifiers - RC coupled amplifiers - Cascade amplifier - Power amplifiers (Class A, Class B, Class AB, Push Pull, Class C amplifiers)."
+          ],
+          "UNIT-V: Feedback Amplifiers and Oscillators": [
+            "Feedback amplifiers (Properties of negative feedback - Voltage and current, Series and Shunt feedback, Positive feedback) - Barkhausen Condition for oscillations - Classification of Oscillators (RC phase shift, Wien bridge, Hartley, Colpitts, and Crystal oscillators)."
+          ]
+        },
+        "Biosensors and Transducers": {
+          "UNIT-I: Introduction to Measurements": [
+            "Measurement system - Instrumentation - Classification and Characteristics of Transducers (Static and Dynamic) - Errors in Measurements - Calibration - Primary and secondary standards - Measurements using AC & DC Bridges."
+          ],
+          "UNIT-II: Displacement, Pressure and Temperature Sensors": [
+            "Strain Gauge (Gauge factor, sensing elements, configuration, unbounded strain gauge, biomedical applications) - Strain gauge as displacement & pressure transducers - Capacitive transducer, Inductive transducer, LVDT - Passive types (RTD materials range, relative resistances, temperature characteristics, thermistor characteristics, biomedical applications of Temperature sensors) - Active type (Thermocouple - Characteristics)."
+          ],
+          "UNIT-III: Transducers and Photoelectric Sensors": [
+            "Introduction to Transducers - Piezoelectric active transducer and biomedical applications (Pressure & Ultrasound transducer) - Comparison of photoelectric transducers - Spectrophotometric applications of photoelectric transducers - Ionizing & Non-Ionizing radiation and its effects - Phototube, scintillation counter, Photo Multiplier Tube (PMT), photovoltaic, Photoconductive cells, photo diodes, phototransistor."
+          ],
+          "UNIT-IV: Electrodes": [
+            "Recording Electrodes (Half cell potential and action potential, Electrode-tissue interface, polarization, skin contact impedance, motion artifacts) - Silver-Silver Chloride electrodes - Surface Electrodes - Needle electrodes - Microelectrodes - Electrical conductivity of electrode - Measurement of Skin Resistance."
+          ],
+          "UNIT-V: Biochemical Transducers": [
+            "Biosensors (Chemoreceptor, hot and cold receptors, Baro receptors, sensors for smell, sound, vision, osmolality and taste) - Transducers for the measurement of ions and dissolved gases - Ion exchange membrane electrodes - Measurement of pH (Glass pH electrodes) - Measurement of pO2, pCO2, ISFET for glucose."
+          ]
+        },
+        "Universal Human Values –II": {
+          "UNIT-I: Introduction to Value Education": [
+            "Right Understanding, Relationship and Physical Facility (Holistic Development and the Role of Education) - Understanding Value Education - Self-exploration as the Process for Value Education - Continuous Happiness and Prosperity – the Basic Human Aspirations - Happiness and Prosperity – Current Scenario - Method to Fulfil the Basic Human Aspirations."
+          ],
+          "UNIT-II: Harmony in the Human Being": [
+            "Understanding Human being as the Co-existence of the Self and the Body - Distinguishing between the Needs of the Self and the Body - The Body as an Instrument of the Self - Understanding Harmony in the Self - Harmony of the Self with the Body - Programme to ensure self-regulation and Health."
+          ],
+          "UNIT-III: Harmony in the Family and Society": [
+            "Harmony in the Family (the Basic Unit of Human Interaction) - 'Trust' as the Foundational Value in Relationship - 'Respect' as the Right Evaluation - Other Feelings, Justice in Human-to-Human Relationship - Understanding Harmony in Society - Vision for the Universal Human Order."
+          ],
+          "UNIT-IV: Harmony in the Nature/Existence": [
+            "Understanding Harmony in Nature - Interconnectedness, self-regulation, and Mutual Fulfilment among the Four Orders of Nature - Realizing Existence as Co-existence at All Levels - The Holistic Perception of Harmony in Existence."
+        ],
+        "UNIT-V: Implications of the Holistic Understanding - a Look at Professional Ethics": [
+          "Natural Acceptance of Human Values - Definitiveness of (Ethical) Human Conduct - A Basis for Humanistic Education, Humanistic Constitution and Universal Human Order - Competence in Professional Ethics - Holistic Technologies, Production Systems and Management Models - Typical Case Studies - Strategies for Transition towards Value-based Life and Profession."
+        ]
+      },
+      "Communicative English - II": {
+        "UNIT-I: Business Correspondence": [
+          "Business Writing (Circular, Agenda, Memoranda, Notice, Instruction, Minutes, Email Writing, Report Writing) - Official and Demi-Official Letters (Applying for Educational / Car / Home Loans, Joining Report, Leave Letter, Industrial Visit, In-plant Training, Letter to the Editor, Calling for a quotation, Placing Order, Letter of Complaints, Letter seeking Clarification, Resume, Job Application Letter, Bio-data, CV)."
+        ],
+        "UNIT-II: Functional Writing Skills": [
+          "Four Modes of Writing, Sentence Structure, Art of condensation (Summary Writing and Note Making) - Use of phrase and clause in sentence - Principles of paragraph writing - Techniques of Essay Writing - Jumbled Sentence - Paraphrasing."
+        ],
+        "UNIT-III: Etiquettes": [
+          "Etiquette (Meaning, Kinds: Corporate Etiquette, Meeting Etiquette, Telephone Etiquette, Email Etiquette, Social Media Etiquette, Dining Etiquette, Communication Etiquette)."
+        ],
+        "UNIT-IV: Communication Practice-II": [
+          "Listening (Letter writing tips) - Speaking (Just a Minute, Impromptu Speech, Contemporary Issues) - Reading (Variety of examples for Modes of Writing) - Writing (Different types of letters)."
+        ],
+        "UNIT-V: Interpersonal Communication-II": [
+          "Listening (Videos on different types of Etiquettes) - Speaking (Team Presentation, Negotiation Skills) - Reading (Phrases and Clauses) - Writing (Free writing on any given topic, Paraphrasing Practice)."
+        ]
+      }
+    }
+  }
+}
+            
